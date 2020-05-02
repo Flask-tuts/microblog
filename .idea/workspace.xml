@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8b91bc82-f2f4-40f7-8d4d-746f6bb51687" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -30,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -117,5 +121,13 @@
       <screen x="0" y="27" width="1360" height="741" />
     </state>
     <state width="1330" height="166" key="GridCell.Tab.0.right/0.27.1360.741@0.27.1360.741" timestamp="1588270064726" />
+    <state width="498" height="451" key="SwitcherDM" timestamp="1588406294308">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state width="498" height="451" key="SwitcherDM/0.27.1360.741@0.27.1360.741" timestamp="1588406294308" />
+    <state x="344" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1588405991443">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="344" y="224" key="com.intellij.ide.util.TipDialog/0.27.1360.741@0.27.1360.741" timestamp="1588405991443" />
   </component>
 </project>
