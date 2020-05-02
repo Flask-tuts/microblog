@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b91bc82-f2f4-40f7-8d4d-746f6bb51687" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/microblog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flaskenv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/alembic.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/env.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/script.py.mako" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microblog.py" beforeDir="false" afterPath="$PROJECT_DIR$/microblog.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,9 +154,9 @@
       <screen x="0" y="27" width="1360" height="741" />
     </state>
     <state width="498" height="451" key="SwitcherDM/0.27.1360.741@0.27.1360.741" timestamp="1588406294308" />
-    <state x="344" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1588405991443">
+    <state x="344" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1588439864952">
       <screen x="0" y="27" width="1360" height="741" />
     </state>
-    <state x="344" y="224" key="com.intellij.ide.util.TipDialog/0.27.1360.741@0.27.1360.741" timestamp="1588405991443" />
+    <state x="344" y="224" key="com.intellij.ide.util.TipDialog/0.27.1360.741@0.27.1360.741" timestamp="1588439864952" />
   </component>
 </project>
