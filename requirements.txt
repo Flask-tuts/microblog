@@ -21,3 +21,6 @@ flask-wtf==0.14.3
 
 #database migration framework
 flask-migrate==2.5.3
+
+#managing logged in state
+flask-login==0.5.0
